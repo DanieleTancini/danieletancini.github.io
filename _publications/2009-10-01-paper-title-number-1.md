@@ -1,7 +1,7 @@
 ---
 title: A comparison between marginal likelihood and data augmented MCMC algorithms for Gaussian hidden Markov models"
 collection: publications
-category: articles
+category: manuscript
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2009-10-01
 venue: 'Journal of Statistical Computation and Simulation'
