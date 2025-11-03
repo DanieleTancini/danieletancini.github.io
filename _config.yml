@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=JLWCFpcAAAAJ&hl=it&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-4305-7475"
+  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -249,10 +249,10 @@ defaults:
   - scope:
       path: ""
       type: pages
-      values:
+    values:
       layout: single
       author_profile: true
- #  _teaching
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -270,7 +270,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
- #  _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
