@@ -31,5 +31,5 @@ Approach for Rectangular Hidden Markov Models, *Statistics for Innovation IV*, 1
 Awards and Scholarships
 ======
 **Awards**:
-Student Award Institute of Mathematical Statistics ICSDS 2024. 
+- Student Award Institute of Mathematical Statistics ICSDS 2024. 
 
