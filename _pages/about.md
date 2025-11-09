@@ -27,3 +27,8 @@ hidden Markov models, *The 52nd Scientific Meeting of the Italian Statistical So
 Models, *Statistics for Innovation IV*, 398-403;
 - Peruilh Bagolini R., Tancini D., Bartolucci F. & Pandolfi S. (2025), A Data Augmented Bayesian
 Approach for Rectangular Hidden Markov Models, *Statistics for Innovation IV*, 189-194.
+
+Grants and Scholarships
+======
+Student Award Institute of Mathematical Statistics ICSDS 2024. 
+
