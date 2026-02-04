@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [University of Perugia](https://www.unipg.it), supervised by [Francesco Bartolucci](https://sites.google.com/site/bartstatistics/). I also spent a visting period as a PhD visting student at University College Dublin, School of Mathematics and Statitics, under the supervision of [Riccardo Rastelli](https://sites.google.com/site/riccardoras/). My research is focused on Statistics and Computational Statistics. 
+I am a research fellow in Statistics at [University of Perugia](https://www.unipg.it). I completed my PhD at [University of Perugia](https://www.unipg.it), supervised by [Francesco Bartolucci](https://sites.google.com/site/bartstatistics/). I also spent a visting period as a PhD visting student at University College Dublin, School of Mathematics and Statitics, under the supervision of [Riccardo Rastelli](https://sites.google.com/site/riccardoras/). My research is focused on Statistics and Computational Statistics. 
 
 Publications
 ======
