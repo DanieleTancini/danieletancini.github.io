@@ -26,11 +26,11 @@ author:
   avatar           : "profile2.heic"
   name             : "Daniele Tancini"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student"
+  bio              : "PhD"
   location         : "Perugia, Italy"
   employer         : "University of Perugia"
   uri              : # URL
-  email            : "daniele.tancini@dottorandi.unipg.it" 
+  email            : "daniele.tancini@unipg.it" 
 
   # Academic websites
   academia         : # URL
