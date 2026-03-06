@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: " "
 author_profile: true
 seo_title: "Daniele Tancini"
