@@ -2,6 +2,7 @@
 permalink: /
 title: " "
 author_profile: true
+seo_title: "Daniele Tancini"
 redirect_from: 
   - /about/
   - /about.html
