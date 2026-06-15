@@ -17,7 +17,8 @@ Publications
 augmented MCMC algorithms for Gaussian hidden Markov models, *Journal of Statistical
 Computation and Simulation*, 94, 1571-1594;
 - Tancini D., Scrucca L. & Bartolucci F. (2025), An algorithm aiming at unimodal density-based
-clustering using Gaussian mixture models, *Statistics and Computing*, 35, 1-27.
+clustering using Gaussian mixture models, *Statistics and Computing*, 35, 1-27;
+- Tancini D., Rastelli R. & Bartolucci F. (2026), A spatio-temporal hidden Markov model with an application to Italian unemployment data, *Networks and Spatial Economics*, 35, 1-33.
 
 **Conference volumes**:
 - Tancini D., Bartolucci F. & Pandolfi S. (2024), Bayesian hidden Markov models for early warning,
