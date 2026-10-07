@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow in Statistics at the [University of Perugia](https://www.unipg.it). I have recently completed my PhD at [University of Perugia](https://www.unipg.it), supervised by [Francesco Bartolucci](https://sites.google.com/site/bartstatistics/). I also spent a visiting period as a PhD visiting student at University College Dublin, School of Mathematics and Statistics, under the supervision of [Riccardo Rastelli](https://sites.google.com/site/riccardoras/). My research is focused on Statistics and Computational Statistics. 
+I am a research fellow in Statistics at the [University of Perugia](https://www.unipg.it). I have recently completed my PhD at the [University of Perugia](https://www.unipg.it), supervised by [Francesco Bartolucci](https://sites.google.com/site/bartstatistics/). I also spent a visiting period as a PhD visiting student at University College Dublin, School of Mathematics and Statistics, under the supervision of [Riccardo Rastelli](https://sites.google.com/site/riccardoras/). My research is focused on Statistics and Computational Statistics. 
 
 Publications
 ======
@@ -32,6 +32,9 @@ hidden Markov models, *The 52nd Scientific Meeting of the Italian Statistical So
 Models, *Statistics for Innovation IV*, 398-403;
 - Peruilh Bagolini R., Tancini D., Bartolucci F. & Pandolfi S. (2025), A Data Augmented Bayesian
 Approach for Rectangular Hidden Markov Models, *Statistics for Innovation IV*, 189-194.
+
+**Book chapters**
+- Peruilh Bagolini R., Tancini D. & Pandolfi S. (2026) A Bayesian Student's t-Hidden Markov Model Approach for Cryptocurrencies Time Series, *Models for Longitudinal Data with Applications to Early Warning Systems*.
 
 Awards and Scholarships
 ======
