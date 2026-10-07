@@ -34,7 +34,7 @@ Models, *Statistics for Innovation IV*, 398-403;
 Approach for Rectangular Hidden Markov Models, *Statistics for Innovation IV*, 189-194.
 
 **Book chapters**
-- Peruilh Bagolini R., Tancini D. & Pandolfi S. (2026) A Bayesian Student's t-Hidden Markov Model Approach for Cryptocurrencies Time Series, *Models for Longitudinal Data with Applications to Early Warning Systems*.
+- Peruilh Bagolini R., Tancini D. & Pandolfi S. (2026), A Bayesian Student's t-Hidden Markov Model Approach for Cryptocurrencies Time Series, *Models for Longitudinal Data with Applications to Early Warning Systems*.
 
 Awards and Scholarships
 ======
